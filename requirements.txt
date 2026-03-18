@@ -20,4 +20,5 @@ langgraph-cli[inmem]
 langchainhub
 flask
 langchain-pinecone
+pypdf
 -e .
